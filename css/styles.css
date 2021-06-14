@@ -46,15 +46,15 @@ h3,a {
 }
 .top-cloud{
   position: absolute;
-  right: 350px;
+  right: 20%;
 }
 .bottom-cloud{
   position: absolute;
-  left: 350px;
+  left: 15%;
   }
 .mountain{
   position: absolute;
-  left: 400px;
+  right: 20%;
   bottom: 0;
 }
 
@@ -94,13 +94,15 @@ hr{
   margin-bottom: 50px;
 }
 .contact-me{
+  width: 50%;
+  margin: auto;
   margin-top: 50px;
   text-decoration: none;
 }
 .bottom-container{
   background-color: #DDDDDD;
   position: absolute;
-  width: 100%;
+  width: 102%;
   height: 100px;
 }
 .foot-name{
